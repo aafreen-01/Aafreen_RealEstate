@@ -1,6 +1,6 @@
 # Aafreen Real Estate - Real Estate Web App
 
-![Aafreen Real Estate Logo](./client/public/app-screenshot-1.png)
+![Aafreen Real Estate Logo](./client/public/app-screenshot-i.jpg)
 
 Aafreen Real Estate is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
 
@@ -18,7 +18,9 @@ Check out the live app: [Aafreen Real Estate on Render](https://aafreen-realesta
 
 ## Screenshot
 
-![Screenshot 1](./client/public/app-screenshot-2.png)
+![Screenshot 1](./client/public/app-screenshot-ii.png)
+![Screenshot 2](./client/public/app-screenshot-iii.png)
+![Screenshot 3](./client/public/app-screenshot-iv.png)
 
 
 ## Usage
