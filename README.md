@@ -18,7 +18,7 @@ Check out the live app: [Aafreen Real Estate on Render](https://aafreen-realesta
 
 ## Screenshot
 
-![Screenshot 1](./client/public/app-screenshot-ii.jpg)
+![Screenshot 1](./client/public/app-screenshot-ii.png)
 ![Screenshot 2](./client/public/app-screenshot-iii.jpg)
 ![Screenshot 3](./client/public/app-screenshot-iv.jpg)
 
